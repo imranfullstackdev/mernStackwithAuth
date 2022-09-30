@@ -1,0 +1,180 @@
+*,
+.main .AboutUser {
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 4px;
+  width: 224px;
+}
+
+.logo img {
+  height: 92px;
+}
+
+.mainContainer {
+  display: flex;
+  margin-top: 85px;
+  box-shadow: 0px 0px 5.5px 0.5px;
+  width: 848px;
+  padding: 63px;
+  margin-left: 246px;
+  height: 469px;
+  BORDER-RADIUS: 20PX
+}
+
+.mainContainer1 {
+  display: flex;
+  margin-top: 85px;
+  box-shadow: 0px 0px 5.5px 0.5px;
+  ;
+  BORDER-RADIUS: 20PX;
+  padding: 63px;
+  width: 804px;
+  margin-left: 16px;
+  height: 469px;
+}
+
+
+.formdiv {
+  width: 241px;
+
+}
+
+.formdiv1 {
+  margin-top: 92px;
+}
+
+.regimage img {
+  margin-top: -55px;
+  height: 456px;
+  margin-left: 34px;
+
+}
+
+.row {
+  gap: 72px;
+}
+
+#contactDiv {
+  box-shadow: 0px 0px 5.5px 0.5px;
+  border-radius: 12px;
+}
+
+.maincointainer {
+  box-shadow: 0px 0px 5.5px 0.1px;
+  width: 926px;
+  margin-left: 146px;
+  height: auto;
+  padding: 26px;
+  border: none;
+  margin-top: 139px;
+  border-radius: 24px;
+}
+
+#textarea textarea {
+  width: 100%;
+  height: 125px;
+  margin-top: 39px;
+}
+
+#main-cont-left {
+  background-color: rgb(0, 118, 188);
+  opacity: 0.2;
+  height: 85vh;
+}
+
+#main-cont-right {
+  background-color: white;
+}
+
+.main {
+  margin: 0 !important;
+}
+
+.welcomecontent {
+  color: rgb(0, 118, 188);
+  position: absolute;
+  font-size: 32px;
+
+}
+
+.projectcontent {
+  color: black;
+  position: absolute;
+  margin-top: 42px;
+  margin-left: 59px;
+  font-size: 33px;
+  z-index: 9999;
+}
+
+.midcontent {
+  margin-top: 25%;
+  margin-left: 412px;
+  font-size: 30px;
+  position: absolute;
+  width: 413px;
+}
+
+.AboutUser {
+  display: flex;
+  padding: 80px;
+}
+
+.info {
+  gap: 22px;
+  margin-top: 12px;
+}
+
+.userDetails {
+  margin-left: -82px;
+}
+
+.aboutUser-btn button {
+  border: none;
+  box-shadow: 0px 0px 2.5px 1.5px;
+  border-radius: 7px;
+  height: 30px;
+  width: 88px;
+}
+
+.AboutUser img {
+  border-radius: 23px;
+}
+
+.errorui {
+  justify-content: center;
+  align-items: center;
+  margin-top: 16%;
+  font-size: 22px;
+
+}
+
+.errorui h3 {
+  font-size: 85px;
+}
+
+.errorui h5 {
+  font-size: 30px;
+}
+
+.errorui button {
+  position: absolute;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0px 0px 0.5px 0.5px;
+  font-size: 15px;
+  padding: 6px;
+  margin-left: -30px;
+}
+
+.errornum h1 {
+  position: absolute;
+  font-size: 253px;
+  opacity: 0.23;
+  margin-left: 34%;
+  margin-top: -85px;
+}
